@@ -20,3 +20,7 @@ if (number > 10) {
 console.log(wholesome(-1))
 console.log(wholesome(5))
 console.log(wholesome(15))
+
+console.log(wholesome(-1))
+console.log(wholesome(5))
+console.log(wholesome(15))
